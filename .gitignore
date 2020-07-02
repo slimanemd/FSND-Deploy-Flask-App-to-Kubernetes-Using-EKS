@@ -4,7 +4,7 @@
 *.pyc
 *.pyo
 env/
-env*
+en0v*
 dist/
 build/
 *.egg
